@@ -1,0 +1,20 @@
+ Date: 2026-01-19
+
+Topics Covered
+- Arrays (DSA)
+- Middleware (Concept Overview)
+
+Key Learnings
+- Solved 5 array-based DSA questions focusing on:
+  - Traversal
+  - Edge cases
+  - Time & space complexity
+- Learned about middlewares in DSA context:
+  - How middleware acts as an **intermediate processing layer**
+  - Used to handle validation, logging, and preprocessing before main logic execution
+  - Helps keep core logic clean and modular
+
+ Practical Work
+- Implemented array solutions using optimal approaches
+- Reviewed problem-solving patterns for arrays
+
